@@ -23,13 +23,17 @@ h2 {
     max-width: 28%;
 }
 
+.card img {
+    max-width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
 .card h3 {
     color: #e21;
 }
 
-.card img {
-    max-width: 100%;
-    border-radius: 5px 5px 0 0;
+.card-number {
+    font-weight: bold;
 }
 
 .price {
